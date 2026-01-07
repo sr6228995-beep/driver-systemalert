@@ -1,4 +1,4 @@
-🚗 Driver Alert System Using OpenCV (Java) 📌 Project Overview
+**🚗 Driver Alert System Using OpenCV (Java) 📌 Project Overview**
 
 The Driver Alert System is a real-time computer vision application designed to monitor driver alertness and detect signs of drowsiness. Using a webcam and OpenCV’s face and eye detection techniques, the system identifies prolonged eye closure and triggers an alert to prevent fatigue-related accidents.
 
@@ -24,7 +24,7 @@ Haar Cascade Classifiers
 
 Webcam (Video Input)
 
-🧠 Working Principle
+**🧠 Working Principle**
 
 The webcam captures live video frames.
 
@@ -38,7 +38,7 @@ If eyes are not detected continuously for a defined number of frames, the system
 
 An alert is triggered and displayed to warn the driver.
 
-⚙️ Features
+**⚙️ Features**
 
 Real-time face and eye detection
 
@@ -50,9 +50,7 @@ Console-based alert system
 
 Lightweight and fast execution
 
-📁 Project Structure DriverAlertSystem/ │ ├── src/ │ ├── DriverAlertSystem.java │ └── resources/ │ ├── haarcascade_frontalface_default.xml │ └── haarcascade_eye.xml │ ├── README.md
-
-🔧 Setup Instructions 1️⃣ Download OpenCV
+**🔧 Setup Instructions 1️⃣ Download OpenCV**
 
 Download OpenCV from:
 
